@@ -46,5 +46,3 @@ ZADACA:
 - NApraviti  logiku sa  varijablama A i B i C D
   Ukoliko je A i B vece od nula ili  C i D vece od nula sabrati sve brojeve.
   Nakon toga provjeriti da li je rezultat veci od 100 ukoliko jeste provjeriti da li je djeljivo sa dva. Ukoliko je djeljivo sa dva podjeliti, ukoliko nije uraditi minus jedan pa opet probati vidjeti da li je djeljivo sa dva i ako jeste podjeliti sa dva. Ukoliko nije ispisati “The number is still not divisible by 2”
-  
-- IDITE LAKSIM REDOSLJEDOM (edited) 
